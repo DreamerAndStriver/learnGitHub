@@ -1,7 +1,8 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main() {
+int main()
+{
 	cout << "hello Software!" << endl;
-	cout << "Changed by LinWenfen" << endl;
+	cout << "Changed by chenwanchun" << endl;
 	return 0;
 }
